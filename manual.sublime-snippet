@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+@Manual{${1:author}-${2:year},
+  title = {$1},
+  OPTkey = {},
+  OPTauthor = {},
+  OPTorganization = {},
+  OPTaddress = {},
+  OPTedition = {},
+  OPTmonth = {},
+  OPTyear = {$2},
+  OPTnote = {},
+  OPTannote = {}
+}
+]]></content>
+  <tabTrigger>manual</tabTrigger>
+  <scope>text.bibtex</scope>
+  <description>Insert Manual entry</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@Preamble{{${1:message}}}
+]]></content>
+  <tabTrigger>preamble</tabTrigger>
+  <scope>text.bibtex</scope>
+  <description>Insert bibliography preamble</description>
+</snippet>

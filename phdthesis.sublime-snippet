@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[
+@PhdThesis{${1:author}-${2:year},
+  author = {$1},
+  title = {$3},
+  school = {$4},
+  year = {$2},
+  OPTkey = {},
+  OPTtype = {},
+  OPTaddress = {},
+  OPTdoi = {},
+  OPTmonth = {},
+  OPTnote = {},
+  OPTannote = {}
+}
+]]></content>
+  <tabTrigger>phdthesis</tabTrigger>
+  <scope>text.bibtex</scope>
+  <description>Insert PhD Thesis entry</description>
+</snippet>

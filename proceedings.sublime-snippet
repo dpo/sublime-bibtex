@@ -1,0 +1,24 @@
+<snippet>
+  <content><![CDATA[
+@Proceedings{${1:editor}-${2:year},
+  title = {},
+  year = {$2},
+  OPTkey = {},
+  OPTbooktitle = {},
+  OPTeditor = {$1},
+  OPTvolume = {},
+  OPTnumber = {},
+  OPTseries = {},
+  OPTaddress = {},
+  OPTmonth = {},
+  OPTorganization = {},
+  OPTpublisher = {},
+  OPTdoi = {},
+  OPTnote = {},
+  OPTannote = {}
+}
+]]></content>
+  <tabTrigger>proceedings</tabTrigger>
+  <scope>text.bibtex</scope>
+  <description>Insert Proceedings entry</description>
+</snippet>

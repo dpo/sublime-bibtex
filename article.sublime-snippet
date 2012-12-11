@@ -1,0 +1,21 @@
+<snippet>
+  <content><![CDATA[
+@Article{${1:author}-${2:year},
+  author = {$1},
+  title = {$3},
+  journal = {$4},
+  year = {$2},
+  OPTdoi = {},
+  OPTkey = {},
+  OPTvolume = {},
+  OPTnumber = {},
+  OPTpages = {},
+  OPTmonth = {},
+  OPTnote = {},
+  OPTannote = {}
+}
+]]></content>
+  <tabTrigger>article</tabTrigger>
+  <scope>text.bibtex</scope>
+  <description>Insert Article entry</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@String{${1:str} = {2:long string}}
+]]></content>
+  <tabTrigger>string</tabTrigger>
+  <scope>text.bibtex</scope>
+  <description>Insert string definition</description>
+</snippet>
