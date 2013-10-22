@@ -21,3 +21,6 @@ Clone the repository in your [Sublime Text 2](http://www.sublimetext.com) `User`
 * In OSX: `~/Library/Application Support/Sublime Text 2/Packages/User`
 * In Linux: `~/.Sublime Text 2/Packages/User`
 * In Windows: `%APPDATA%/Sublime Text 2/Packages/User`
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dpo/sublime-bibtex/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
