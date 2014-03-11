@@ -1,4 +1,4 @@
-# BibTeX Snippets for Sublime Text 2 #
+# BibTeX Snippets for Sublime Text 2 and 3 #
 
 `sublime-bibtex` adds snippets for [LaTeX](http://www.latex-project.org) bibliographies in [BibTeX](http://www.bibtex.org) format.
 
@@ -10,17 +10,23 @@ Can't remember an entry name? Type the first few characters, hit `^`-`space` and
 
 ### Without Git ###
 
-Download the sources by hitting the `Downloads` button above and copy the whole directory in your [Sublime Text 2](http://www.sublimetext.com) `User` folder.
+[Download the sources](https://github.com/dpo/sublime-bibtex/archive/master.zip) and unzip in your `User` folder (Sublime Text 2) or `Packages` folder (Sublime Text 3).
 
 ### With Git ###
 
-Clone the repository in your [Sublime Text 2](http://www.sublimetext.com) `User` folder.
+Clone the repository in your `User` folder (Sublime Text 2) or `Packages` folder (Sublime Text 3).
 
-## Where's my `User` folder? ##
+### Where's my `User` folder? ###
 
-* In OSX: `~/Library/Application Support/Sublime Text 2/Packages/User`
-* In Linux: `~/.Sublime Text 2/Packages/User`
-* In Windows: `%APPDATA%/Sublime Text 2/Packages/User`
+* OSX: `~/Library/Application Support/Sublime Text 2/Packages/User`
+* Linux: `~/.Sublime Text 2/Packages/User`
+* Windows: `%APPDATA%/Sublime Text 2/Packages/User`
+
+### Where's my `Packages` folder? ###
+
+* OSX: `~/Library/Application\ Support/Sublime\ Text\ 3/Packages`
+* Linux: `~/.Sublime Text 3/Packages`
+* Windows: `%APPDATA%/Sublime Text 3/Packages`
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dpo/sublime-bibtex/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
